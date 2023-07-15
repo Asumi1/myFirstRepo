@@ -9,6 +9,7 @@ public class HelloWorld {
 
     public static void greet() {
         System.out.println("Hello there!");
+        System.out.println("This is from another branch");
     }
 
 }
